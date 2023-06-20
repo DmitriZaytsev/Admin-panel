@@ -1,0 +1,27 @@
+{
+  "home": "首页",
+
+  "sidenav.general": "常规",
+  "sidenav.general.dashboard": "仪表盘",
+  "sidenav.general.catalog": "目录",
+  "sidenav.general.catalog.goods": "商品",
+  "sidenav.general.catalog.categories": "分类",
+  "sidenav.general.catalog.collections": "合集",
+  "sidenav.general.catalog.combo": "组合",
+  "sidenav.general.orders": "订单",
+  "sidenav.general.clients": "客户",
+  "sidenav.general.clients.list": "客户列表",
+  "sidenav.general.clients.groups": "客户群组",
+  "sidenav.general.banners": "横幅",
+  "sidenav.general.promocodes": "促销码",
+  "sidenav.general.address": "线下门店",
+  "sidenav.general.address.addresses": "地址",
+  "sidenav.general.address.geofences": "地理围栏",
+  "sidenav.general.employees": "员工",
+  "sidenav.general.mailing": "邮件",
+
+  "sidenav.system": "系统",
+  "sidenav.system.settings": "设置",
+  "sidenav.system.mobileapp": "移动应用",
+  "sidenav.system.logs": "日志"
+}
